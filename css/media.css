@@ -1,0 +1,3651 @@
+
+
+
+
+
+@media screen and (max-width: 1366px) {
+
+    .yesweb__is.is .yesweb__h {
+        width: 21%;
+        left: 45%;
+    }
+    
+    .container{
+        width: 100%;
+    
+    }
+    
+    .yesweb__img img {
+        height: auto;
+        width: 100%;
+    }
+    
+    span.yesweb__des {
+        display: none;
+    }
+    
+    span.yesweb__mob {
+        display: block;
+    }
+    
+    .yesweb__is.is {
+        width: 100%;
+        height: auto;
+        min-height: auto;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+    
+    span.yesweb__mob img {
+        height: auto;
+    }
+    
+    .yesweb__h {
+        margin: 33px auto 15px;
+        position: absolute;
+        left: 5px;
+        width: 95%;
+        right: 5px;
+    }
+    
+    .yesweb__wrap {
+        justify-content: center;
+    }
+    
+    .about_o_absolute {
+        left: -5px;
+        z-index: 1;
+        position: absolute;
+        top: -5px;
+        border-radius: 15.585px;
+        border: 1.299px solid rgba(0, 0, 0, 0.10);
+        background: #FFF;
+        box-shadow: -3.89615px 18.18206px 18.18206px 0px rgba(0, 0, 0, 0.05);
+        width: 49px;
+        height: 49px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .about_o_absolute2 {
+        position: absolute;
+        bottom: 173px;
+        right: -10px;
+        z-index: 1;
+        border-radius: 21.474px;
+        border: 1.789px solid rgba(0, 0, 0, 0.10);
+        background: #FFF;
+        box-shadow: -5.36842px 25.05263px 25.05263px 0px rgba(0, 0, 0, 0.05);
+        width: 68px;
+        height: 68px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .yesweb__h_solutions {
+        bottom: 10px;
+        left: 10px;
+        margin: 0;
+    }
+    
+    .spa_management_w_mr {
+        overflow: hidden;
+        margin: 0 -10px 0 0;
+    }
+    
+    .spa_management_s_absolute {
+        z-index: 1;
+        position: absolute;
+        width: 382px;
+        top: -23px;
+        right: -10px;
+    }
+    
+    .spa_management_i_img_mr2 {
+        margin: 0 -119px -90px 0;
+    }
+    
+    .spa_management_i_img_mr3 {
+        margin: -20px -119px -60px 0;
+    }
+    
+    .spa_management_i_img_mr4 {
+        margin: 0 -119px -35px 0;
+    }
+    
+    .spa_management_s_absolute2 {
+        z-index: 1;
+        position: absolute;
+        width: 416px;
+        top: 22px;
+        right: -10px;
+    }
+    
+    }
+    
+    
+    /* стили для md-устройств */
+    @media screen and (max-width: 1200px) {
+    
+    button.online__but {
+        width: 38%;
+    }
+    
+    .slid__bot__text__bl {
+        width: 52%;
+    }
+    
+    .incr__text__tit {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    
+    .incr__text__is {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    
+    .slid__tits {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    
+    .yesweb__tit {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    
+    .acs__tit {
+        font-size: 42px;
+        line-height: 42px;
+    }
+    
+    .acs__right__tit {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    
+    .invest__tit {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    
+    .yews__tit {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    
+    .yesw__img {
+        margin-right: 55px;
+        width: 55%;
+    }
+    
+    .yews__text__bl {
+        width: 35%;
+    }
+    
+    .colect__tit {
+        width: 100%;
+    }
+    
+    .colect__is {
+        width: 32%;
+    }
+    
+    .online__tit {
+        font-size: 42px;
+        line-height: 42px;
+    }
+    
+    button.online__but {
+        margin-bottom: 5px;
+    }
+    
+    .online__wrap {
+        background-size: cover;
+        min-height: auto;
+    }
+    
+    .asc__tit {
+        font-size: 42px;
+        line-height: 42px;
+    }
+    
+    .wrap__focus {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: baseline;
+    }
+    
+    nav.top__menu__wrap {
+        display: none;
+    }
+    
+    .menu-wrpap {
+        display:block;
+        margin: 15px;
+        z-index: 999;
+        position: relative;
+    }
+    
+    nav.top__menu__wrap.is {
+        display: block;
+    }
+    
+    .right__img__bl {
+        background: url(../images/grup-mob.png)left top no-repeat;
+        width: auto;
+        height: auto;
+        background-size: cover;
+        border-radius: 39px;
+        margin-bottom: 22px;
+    }
+    
+    .left__focus {
+        width: 50%;
+    }
+    
+    .right__focus {
+        width: 48%;
+    }
+    
+    .left__focus__tit {
+        font-size: 42px;
+        line-height: 42px;
+    }
+    
+    .right__img__tit {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    
+    .title {
+        font-size: 42px;
+        line-height: 42px;
+    }
+    
+    .pricing_wrap {
+        display: flex;
+        margin: 26px -8px 0 -8px;
+        flex-wrap: wrap;
+    }
+    
+    .pricing_block {
+        width: 50%;
+        padding: 24px 8px 0 8px;
+    }
+    
+    .pricing_border_bg:before {
+        content: '';
+        background: url(../images/pricing_border_bg.png) 100% 0 no-repeat;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        border-radius: 32px;
+        height: 487px;
+    }
+    
+    .pricing {
+        padding: 17px 0 90px 0;
+    }
+    
+    header {
+        padding: 18px 0 0 0;
+    }
+    
+    .about_o_wrap {
+        margin: 0 -8px 0 -8px;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+    }
+    
+    .about_o {
+        padding: 60px 0 0 0;
+    }
+    
+    .about_o_block {
+        padding: 0 8px;
+        width: 50%;
+    }
+    
+    .about_o_block_mr {
+        margin: 45px 0 0 0;
+    }
+    
+    .about_o_border {
+        height: 100%;
+        border-radius: 34px;
+        padding: 42px 32px 42px 32px;
+    }
+    
+    .about_o_pd {
+        padding: 268px 0 0 0;
+    }
+    
+    .about_o_border_bg {
+        height: auto;
+        padding: 42px 32px 217px 32px;
+        background-position: 0% 351%;
+    }
+    
+    .about_o_border_bg2 {
+        position: relative;
+        background: url(../images/about_o_border_bg3.png) center center;
+        background-size: cover;
+        height: 247px;
+    }
+    
+    .about_o_absolute2 {
+        position: absolute;
+        bottom: -24px;
+        right: 5px;
+        z-index: 1;
+        border-radius: 21.474px;
+        border: 1.789px solid rgba(0, 0, 0, 0.10);
+        background: #FFF;
+        box-shadow: -5.36842px 25.05263px 25.05263px 0px rgba(0, 0, 0, 0.05);
+        width: 68px;
+        height: 68px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .about_o_block_mr2 {
+        margin: -110px 0 0 0;
+    }
+    
+    .about_v {
+        padding: 100px 0 0 0;
+    }
+    
+    .about_v_text {
+        width: 90%;
+        padding: 0 0 0 25px;
+    }
+    
+    .about_t {
+        padding: 80px 0 0 0;
+    }
+    
+    .about_t_wrap {
+        flex-wrap: wrap;
+        margin: 16px -8px 0 -8px;
+    }
+    
+    .about_t_block {
+        width: 50%;
+        padding: 16px 8px 0 8px;
+    }
+    
+    .about_j {
+        padding: 80px 0 80px 0;
+    }
+    
+    .about_s {
+        padding: 0 0 80px 0;
+    }
+    
+    .about_s_padding {
+        padding: 20px 0 0 0;
+    }
+    
+    .about_s_wrap {
+        display: flex;
+        margin: 32px -8px 0 -8px;
+    }
+    
+    .about_s_block {
+        width: 33.333333333%;
+        padding: 0 8px;
+    }
+    
+    .about_s_pd {
+        padding: 24px 24px 32px 24px;
+    }
+    
+    .career_w_img_lg {
+        display: block;
+    }
+    
+    .career_w_img_dk {
+        display: none;
+    }
+    
+    .career_w_img {
+        margin: 0 -10px 0 0;
+    }
+    
+    .career_w_link a {
+        background: #fff;
+        border-radius: 12px;
+        padding: 4px 4px 4px 16px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 203px;
+        text-decoration: none;
+    }
+    
+    .career_w_end {
+        margin: -25px 75px 0 0;
+        position: relative;
+        z-index: 1;
+        display: flex;
+        justify-content: flex-end;
+    }
+    
+    .career_o_border {
+        background: #F1F1F8 url(../images/career_o_border.png) 100% -40% no-repeat;
+        border-radius: 34px;
+        padding: 84px 40px 32px 40px;
+    }
+    
+    .career_o_inner {
+        flex-wrap: wrap;
+    }
+    
+    .career_o_inner_block {
+        width: 100%;
+        padding: 40px 0 0 0;
+    }
+    
+    .career_o_block {
+        width: 59.3%;
+        padding: 0 8px 0 0;
+    }
+    
+    .career_o_block2 {
+        width: 40.7%;
+        padding: 0 0 0 8px;
+        margin: 30px 0 0 0;
+    }
+    
+    .career_o_border2 {
+        border-radius: 32px;
+        background: #EFEFF5;
+        padding: 119px 35px 119px 35px;
+    }
+    
+    .career_o {
+        padding: 60px 0 0 0;
+    }
+    
+    .career_a {
+        padding: 80px 0 0 0;
+    }
+    
+    .career_p {
+        padding: 80px 0 0 0;
+    }
+    
+    .forma {
+        padding: 80px 0;
+    }
+    
+    .career_page_w {
+        padding: 40px 0 0 0;
+    }
+    
+    .career_page_t {
+        padding: 80px 0 0 0;
+    }
+    
+    .yesweb__is_solutions .yesweb__img img {
+        height: 100%;
+    }
+    
+    .yesweb__is_solutions .yesweb__img {
+        height: 100%;
+    }
+    
+    .contact_block {
+        width: 25%;
+        margin: 0 20px 0 0;
+    }
+    
+    .contact_title {
+        padding: 5px 0 0 0;
+        color: #313142;
+        font-family: 'manrope_bold';
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 20px;
+    }
+    
+    .contact_title a {
+        color: #313142;
+        font-family: 'manrope_bold';
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 20px;
+    }
+    
+    .accordion .link {
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-family: 'manrope_bold';
+        font-size: 18px;
+        line-height: 22px;
+        color: #313142;
+        position: relative;
+        -webkit-transition: all 0.4s ease;
+        -o-transition: all 0.4s ease;
+        transition: all 0.4s ease;
+        padding: 24px 24px 24px 32px;
+    }
+    
+    .accordion li {
+        margin: 16px 0 0 0;
+        
+        border-radius: 34px;
+        background: #fff;
+        cursor: pointer;
+    }
+    
+    .fag_accordion_content {
+        display: none;
+        padding: 1px 90px 45px 32px;
+    }
+    
+    .about_s_padding2 {
+        padding: 80px 0;
+    }
+    
+    .career_page_t h1 {
+        color: #313142;
+        font-family: 'manrope_bold';
+        font-size: 42px;
+        line-height: 42px;
+    }
+    
+    .spa_management_o {
+        padding: 100px 0 0 0;
+    }
+    
+    .career_o_inner_block_spa {
+        width: 50%;
+        padding: 0 40px 0 0;
+    }
+    
+    .spa_management_o_border {
+        background: #EFEFF5 url(../images/spa_management_o_border.png) 100% 0 no-repeat;
+        border-radius: 32px;
+        padding: 203px 10px 40px 35px;
+    }
+    
+    .spa_management_o_border2 {
+        padding: 26px 25px 31px 40px;
+        border-radius: 32px;
+        background: linear-gradient(134deg, #FFE870 -12.53%, #FF80C5 14.43%, #6442FF 61.32%, #58ABF1 100%);
+    }
+    
+    .spa_management_o_title {
+        padding: 30px 0 0 0;
+        font-family: 'manrope_semibold';
+        font-size: 18px;
+        line-height: 22px;
+        color: #fff;
+    }
+    
+    .spa_management_o_title a {
+        font-family: 'manrope_semibold';
+        font-size: 18px;
+        line-height: 22px;
+        color: #fff;
+        text-decoration-line: underline;
+    }
+    
+    .spa_management_o_wrap {
+        padding: 80px 0 0 0;
+        display: flex;
+    }
+    
+    .spa_management_i_absolute {
+        display: none;
+    }
+    
+    .spa_management_v_width {
+        max-width: 598px;
+        margin: 16px auto 0 auto;
+    }
+    
+    .spa_management_v {
+        padding: 80px 0 0 0;
+    }
+    
+    .spa_management_c {
+        padding: 80px 0 0 0;
+    }
+    
+    .spa_management_c_border {
+        padding: 176px 0 0 35px;
+    }
+    
+    .spa_management_c_wrap {
+        flex-wrap: wrap;
+        
+    }
+    
+    .spa_management_c_block {
+        width: 50%;
+        padding: 0 40px 40px 0;
+    }
+    
+    .spa_management_l {
+        padding: 80px 0;
+    }
+    
+    .spa_management_l_border {
+        padding: 56px 32px 30px 32px;
+        border-radius: 32px;
+        background: #fff;
+    }
+    
+    .spa_management_l_border2 {
+        border-radius: 24px;
+        background: #fff;
+        padding: 28px 32px 28px 32px;
+        margin: 26px 0 0 0;
+    }
+    
+    .spa_management_l_block {
+        padding: 0 8px 0 0;
+        width: 50%;
+    }
+    
+    .spa_management_l_block2 {
+        width: 50%;
+        padding: 60px 0 0 8px;
+    }
+    
+    .nail_salon_f_absolute {
+        position: absolute;
+        width: 237px;
+        top: 95px;
+        left: -10px;
+    }
+    
+    .nail_salon_f_restagle {
+        position: absolute;
+        width: 94px;
+        left: 0px;
+        top: 151px;
+    }
+    
+    .nail_salon_f_block {
+        padding: 0 8px 0 0;
+    }
+    
+    .nail_salon_f_block2 {
+        padding: 30px 0 0 8px;
+    }
+    
+    .nail_salon_f {
+        padding: 80px 0 0 0;
+    }
+    
+    .nail_salon_c_border {
+        padding: 0;
+    }
+    
+    .nail_salon_c_img_mr {
+        margin: 0 0 -4px 0;
+    }
+    
+    
+    
+    .nail_salon_c_block {
+        width: 50%;
+    }
+    
+    .nail_salon_c_text {
+        padding: 0 46px 0 46px;
+        width: 50%;
+    }
+    
+    
+    
+    .nail_salon_c_absolute {
+        position: absolute;
+        width: 204px;
+        top: 13px;
+        left: -40px;
+    }
+    
+    .nail_salon_c_absolute2 {
+        position: absolute;
+        width: 369px;
+        bottom: 15px;
+        left: 0px;
+    }
+    
+    .nail_salon_c_absolute3 {
+        position: absolute;
+        width: 251px;
+        bottom: 25px;
+        left: 0;
+    }
+    
+    .spa_management_c_block_beauty {
+        width: 33.33333333%;
+    }
+    
+    .spa_management_c_block_beauty_salon {
+        width: 33.3333333%;
+    }
+    
+    .spa_management_c_title_hair2 {
+        padding: 16px 0 0 0;
+    }
+    
+    
+    
+    .hair_salon_padding_border {
+        padding: 33px 32px 40px 32px;
+        height: auto;
+        border-radius: 32px;
+    }
+    
+    .hair_salon_padding_border_bg2 {
+        height: 324px;
+        position: relative;
+        background: url(../images/hair_salon_padding_border_bg3.png) center center;
+        background-size: cover;
+    }
+    
+    .hair_salon_sec_bg {
+        padding: 68px 0;
+        background: #E4E4EF;
+    }
+    
+    
+    }
+    
+    @media screen and (max-width: 1100px) {
+        .career_a_block_beauty {
+            width: 388px;
+        }
+    }
+    
+    
+    /* стили для sm-устройств */
+    @media screen and (max-width: 1024px) {
+    
+    .left__foot__menu {
+        width: 100%;
+        margin-bottom: 35px;
+    }
+    
+    .right__foot__menu {
+        width: 100%;
+    }
+    
+    .asc__wrap {
+        background: url(../images/mask-2-m.png)left top no-repeat;
+        width: 90%;
+        min-height: 419px;
+        background-size: contain;
+        padding: 30px 20px 20px;
+        margin: 0 auto;
+    }
+    
+    ul.slick-dots {
+        list-style: disc;
+        bottom: -54px;
+        text-align: left;
+        left: 23px;
+        width: 50%!important;
+    }
+    
+    .acs__right.is {
+        margin-right: 59px;
+    }
+    
+    .acs__left{
+        margin-right: 59px; 
+    }
+    
+    .colect__is {
+        width: 30%;
+    }
+    
+    .about_w_block {
+        width: 41%;
+    }
+    
+    .about_w_block2 {
+        width: 35%;
+    }
+    
+    .about_o_block_mr2 {
+        margin: -185px 0 0 0;
+    }
+    
+    .about_v_br {
+        display: none;
+    }
+    
+    .about_j_border {
+        padding: 92px 20px 92px 630px;
+        position: relative;
+        border-radius: 32px;
+        background: #F1F1F8 url(../images/about_j_border.png) -33% 100% no-repeat;
+    }
+    
+    .career_w_block {
+        padding: 60px 0 0 0;
+        width: 45%;
+    }
+    
+    .career_a_block {
+        width: 272px;
+        padding: 48px 0 0 0;
+    }
+    
+    .suptitle {
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 20px;
+        color: #544F71;
+    }
+    
+    .career_a_title {
+        padding: 16px 0 0 0;
+        color: #2C293D;
+        text-align: center;
+        font-family: 'manrope_bold';
+        font-size: 18px;
+        line-height: 22px;
+    }
+    
+    .career_a_icon {
+        position: relative;
+        width: 58px;
+        height: 58px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 16px;
+    }
+    
+    .career_a_icon_border {
+        position: relative;
+        z-index: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 40px;
+        height: 40px;
+        border-radius: 8px;
+        border: 1.158px solid rgba(0, 0, 0, 0.10);
+        background: #FFF;
+        box-shadow: -3.47368px 16.21053px 16.21053px 0px rgba(0, 0, 0, 0.05);
+    }
+    
+    .career_p_link_width {
+        max-width: 478px;
+    }
+    
+    .suptitle_size {
+        font-size: 16px;
+    }
+    
+    .forma_block {
+        width: 41%;
+    }
+    
+    .forma_block2 {
+        width: 48%;
+    }
+    
+    .forma_button span {
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #544F71;
+        border-radius: 19px;
+        border: 1px dashed #ADAABE;
+        padding: 15px 42px;
+    }
+    
+    .solutions_img img {
+        height: 377px;
+        margin: 0 0 -4px 0;
+        width: 100%;
+    }
+    
+    .solutions_block {
+        padding: 28px 8px 0 8px;
+    }
+    
+    .solutions_wrap {
+        margin: 4px -8px 0 -8px;
+    }
+    
+    .features_block {
+        width: 50%;
+        padding: 24px 8px 0 8px;
+    }
+    
+    .features_wrap {
+        margin: 8px -8px 0 -8px;
+    }
+    
+    .contact_wrap {
+        flex-wrap: wrap;
+        padding: 0;
+    }
+    
+    .contact_block {
+        padding: 60px 0 0 0;
+        width: 50%;
+        margin: 0;
+    }
+    
+    .blog_page_sl .slick-dots {
+        width: 100% !important;
+        max-width: 100% !important;
+        left: 0 !important; 
+    }
+    
+    .blog_page_video {
+        border-radius: 0;
+    }
+    
+    .book_demo_block2 {
+        width: 40.4%;
+        padding: 0 0 0 16px;
+    }
+    
+    .book_demo_border2 {
+        overflow: hidden;
+        height: 654px;
+    }
+    
+    .book_demo_img {
+        margin: 0 -10px 0 -10px;
+    }
+    
+    .book_demo_border {
+        background: #fff;
+        border-radius: 34px;
+        padding: 100px 40px;
+    }
+    
+    .book_demo_img {
+        margin: 0 -45px 0 -45px;
+    }
+    
+    .book_demo_block {
+        width: 59.6%;
+    }
+    
+    .book_demo {
+        padding: 50px 0 120px 0;
+    }
+    
+    .spa_management_w_block {
+        width: 45%;
+    }
+    
+    .spa_management_w_block2 {
+        width: 55%;
+    }
+    
+    .spa_management_d_inner {
+        flex-wrap: wrap;
+    }
+    
+    .spa_management_d_text {
+        width: 100%;
+        padding: 14px 0 0 0;
+    }
+    
+    .spa_management_d_border {
+        height: 100%;
+        padding: 24px 24px;
+        border-radius: 24px;
+        background: #FFF;
+    }
+    
+    .spa_management_d_ellipce {
+        width: 93px;
+        height: 93px;
+        border-radius: 50%;
+        padding: 8px 8px;
+        background: linear-gradient(134deg, #FFE870 -12.53%, #FF80C5 14.43%, #6442FF 61.32%, #58ABF1 100%);
+    }
+    
+    .spa_management_d_ellipce_title {
+        color: #313142;
+        text-align: center;
+        font-family: 'manrope_semibold';
+        font-size: 18px;
+        line-height: 22px;
+    }
+    
+    .spa_management_d_ellipce_bg {
+        padding: 12px 0 0 0;
+        border-radius: 50%;
+        width: 100%;
+        height: 100%;
+        background: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .spa_management_d_bottom {
+        padding: 20px 0 0 0;
+        display: flex;
+        align-items: center;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        color: #BDBDBD;
+    }
+    
+    .spa_management_d_ellipce2 {
+        width: 93px;
+        height: 93px;
+        border-radius: 50%;
+        padding: 8px 8px;
+        background: #00C0FF;
+    }
+    
+    .spa_management_d_border2 {
+        height: 100%;
+        border-radius: 24px;
+        background: #EFEFF5;
+        padding: 0 24px;
+        display: flex;
+        align-items: center;
+    }
+    
+    .spa_management_d_h {
+        position: relative;
+        margin: 30px 0 0 0;
+        border-radius: 32px;
+        background: #fff url(../images/spa_management_d_h.png) 0 0 no-repeat;
+        padding: 40px 115px 40px 115px;
+    }
+    
+    .spa_management_s_text {
+        width: 58%;
+        padding: 0 40px 0 40px;
+    }
+    
+    .spa_management_s_block {
+        border-radius: 16px;
+        width: 417px;
+    }
+    
+    .spa_management_s_img {
+        margin: 0 -94px;
+    }
+    
+    .spa_management_s_order2 {
+        padding: 0 40px 0 20px;
+    }
+    
+    .spa_management_s_absolute {
+        z-index: 1;
+        position: absolute;
+        width: 335px;
+        top: -23px;
+        right: -10px;
+    }
+    
+    .spa_management_s_border {
+        margin: 50px 0 0 0;
+        background: #EFEFF5;
+        border-radius: 32px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    .spa_management_o {
+        padding: 80px 0 0 0;
+    }
+    
+    .spa_management_i_border {
+        margin: 24px 0 0 0;
+        background: #EFEFF5;
+        border-radius: 32px;
+        padding: 40px 0px 40px 56px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    .spa_management_i_img_mr {
+        margin: 0 0px 0 0;
+    }
+    
+    .spa_management_i_img_mr2 {
+        margin: 0 0px 0px 0;
+    }
+    
+    .spa_management_i_img_mr3 {
+        margin: 0 0 0 0;
+    }
+    
+    .spa_management_i_img_mr4 {
+        margin: 0 0 0 0;
+    }
+    
+    .spa_management_i_img_mr6 {
+        margin: 0 0 0 0;
+    }
+    
+    .spa_management_i_text {
+        position: relative;
+        width: 48%;
+        padding: 0 40px 0 0;
+    }
+    
+    .spa_management_i_block {
+        width: 52%;
+    }
+    
+    .spa_management_i_br {
+        display: none;
+    }
+    
+    .spa_management_a_wrap {
+        padding: 40px 0 0 0;
+        display: flex;
+    }
+    
+    .spa_management_a_block {
+        width: 50%;
+        margin: 0 16px 0 0;
+    }
+    
+    .spa_management_a_title {
+        max-width: 330px;
+        font-family: 'manrope_semibold';
+        font-size: 18px;
+        line-height: 22px;
+        color: #2C293D;
+        padding: 0 0 0px 0;
+    }
+    
+    .spa_management_a_text {
+        width: 90%;
+        padding: 0 0 0 20px;
+    }
+    
+    
+    .spa_management_l_img_mr {
+        margin: 0 -45px 0 -67px;
+    }
+    
+    .nail_salon_f_smart img {
+        width: 372px;
+    }
+    
+    .nail_salon_f_smart {
+        position: relative;
+        text-align: right;
+        padding: 0 0 0 0;
+    }
+    
+    .nail_salon_f_border {
+        margin: -70px 0 0 0;
+        padding: 84px 60px 65px 60px;
+        border-radius: 32px;
+        background: linear-gradient(134deg, #FFE870 -12.53%, #FF80C5 14.43%, #6442FF 61.32%, #58ABF1 100%);
+    }
+    
+    .title2 {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    
+    .nail_salon_f_title {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    
+    .nail_salon_f_img {
+        overflow: hidden;
+        border-radius: 34px;
+        padding: 40px 0 0 0;
+    }
+    
+    .nail_salon_f_restagle {
+        position: absolute;
+        width: 94px;
+        left: 32px;
+        top: 151px;
+    }
+    
+    .spa_management_s_absolute2 {
+        z-index: 1;
+        position: absolute;
+        width: 376px;
+        top: 60px;
+        right: -10px;
+    }
+    
+    .beauty_salon_i_text {
+        width: 55%;
+        padding: 0 24px;
+    }
+    
+    .beauty_salon_i_block {
+        width: 45%;
+    }
+    
+    .beauty_salon_i_border {
+        display: flex;
+        align-items: center;
+        padding: 40px 20px 40px 20px;
+        margin: 32px 0 0 0;
+        border-radius: 32px;
+        background: #EFEFF5;
+    }
+    
+    .career_a_block_beauty {
+            width: 388px;
+    }
+    
+    .about_o_block_mr3 {
+            margin: -152px 0 0 0;
+    }
+    
+    .forma_border:before {
+        display: none;
+    }
+    
+    .spa_management_w_inner_img2 {
+        margin: 25px 0 0 0;
+    }
+    
+    .spa_management_w_inner_block2 {
+        margin: 39px 0 0 20px;
+    }
+    
+    .spa_management_w_inner {
+        margin: 0 -72px 0 0;
+        padding: 0 0 0 0;
+        justify-content: flex-end;
+        display: flex;
+    }
+    
+    .spa_management_w_icon_width img {
+        width: 18px;
+    }
+    
+    .spa_management_w_mr_title {
+        color: #27252D;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 18px;
+    }
+    
+    .spa_management_w_mr_title_pd {
+        padding: 0 0 0 10px;
+    }
+    
+    .spa_management_w_absolute {
+        display: flex;
+        align-items: center;
+        width: 151px;
+        height: 46px;
+        padding: 0 0 0 15px;
+        border-radius: 10px;
+        border: 1px solid rgba(0, 0, 0, 0.10);
+        background: #FFF;
+        box-shadow: -3px 14px 14px 0px rgba(0, 0, 0, 0.05);
+        position: absolute;
+        top: 16px;
+        left: 149px;
+    }
+    
+    .spa_management_w_absolute2 {
+        text-align: center;
+        width: 125px;
+        padding: 9px 0 10px 0;
+        border-radius: 10px;
+        border: 1px solid rgba(0, 0, 0, 0.10);
+        background: #FFF;
+        box-shadow: -3px 14px 14px 0px rgba(0, 0, 0, 0.05);
+        position: absolute;
+        top: 136px;
+        left: 81px;
+    }
+    
+    .spa_management_w_icon_width2 img {
+        width: 26px;
+        height: 26px;
+    }
+    
+    .spa_management_w_absolute3 {
+        display: flex;
+        align-items: center;
+        width: 142px;
+        height: 42px;
+        padding: 0 0 0 15px;
+        border-radius: 10px;
+        border: 1px solid rgba(0, 0, 0, 0.10);
+        background: #FFF;
+        box-shadow: -3px 14px 14px 0px rgba(0, 0, 0, 0.05);
+        position: absolute;
+        bottom: 27px;
+        left: 240px;
+    }
+    
+    .spa_management_w_icon_width3 img {
+        width: 20px;
+    }
+    
+    .spa_management_w_absolute4 {
+        display: flex;
+        align-items: center;
+        width: 142px;
+        height: 45px;
+        padding: 0 0 0 15px;
+        border-radius: 10px;
+        border: 1px solid rgba(0, 0, 0, 0.10);
+        background: #FFF;
+        box-shadow: -3px 14px 14px 0px rgba(0, 0, 0, 0.05);
+        position: absolute;
+        bottom: 198px;
+        right: 0;
+    }
+    
+    .spa_management_w_icon_width4 img {
+        width: 20px;
+        height: 20px;
+    }
+    
+    .spa_management_w_mr_title_pd3 {
+        padding: 0 0 0 10px;
+    }
+    
+    .spa_management_w_mr_title_pd4 {
+        padding: 0 0 0 7px;
+    }
+    
+    .spa_management_w_absolute5 {
+        width: 45px;
+        height: 45px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        bottom: 311px;
+        right: 0;
+        border-radius: 17px;
+        border: 1.789px solid rgba(0, 0, 0, 0.10);
+        background: #FFF;
+        box-shadow: -5.36842px 25.05263px 25.05263px 0px rgba(0, 0, 0, 0.05);
+    }
+      
+    }
+    
+    @media screen and (max-width: 992px) {
+        .about_j_border {
+            padding: 92px 20px 92px 600px;
+            position: relative;
+            border-radius: 32px;
+            background: #F1F1F8 url(../images/about_j_border.png) -33% 100% no-repeat;
+        }
+    
+        .about_w_block {
+            width: 45%;
+        }
+    
+        .career_o_block2 {
+            width: 48%;
+            padding: 0 0 0 8px;
+            margin: 30px 0 0 0;
+        }
+    
+        .career_o_block {
+            width: 52%;
+            padding: 0 8px 0 0;
+        }
+    
+        .blog_wrap {
+            display: flex;
+            flex-wrap: wrap;
+            margin: 0 -8px 0 -8px;
+        }
+    
+        .blog_block {
+            width: 50%;
+            padding: 24px 8px 0 8px;
+        }
+    
+        .blog_block_lg {
+            display: none;
+        }
+    
+        .book_demo_img {
+            margin: 0 -65px 0 -65px;
+        }
+    
+        .spa_management_d_h {
+            position: relative;
+            margin: 30px 0 0 0;
+            border-radius: 32px;
+            background: #fff url(../images/spa_management_d_h.png) 0 0 no-repeat;
+            padding: 40px 60px 40px 60px;
+        }
+    
+        .spa_management_s_text {
+            width: 57%;
+        }
+    
+        .spa_management_o_block {
+            width: 51.4%;
+        }
+    
+        .spa_management_o_block2 {
+            width: 48.4%;
+            padding: 30px 0 0 16px;
+        }
+    
+        .spa_management_i_text {
+            position: relative;
+            width: 38%;
+            padding: 0 0px 0 0;
+        }
+    
+        .spa_management_i_block {
+            width: 62%;
+            padding: 0 0 0 40px;
+        }
+    
+        .nail_salon_f_restagle {
+            position: absolute;
+            width: 94px;
+            left: 23px;
+            top: 151px;
+        }
+    
+        .nail_salon_c_absolute {
+            position: absolute;
+            width: 204px;
+            top: 13px;
+            left: 0;
+        }
+    }
+    
+    /* стили для sm-устройств */
+    @media screen and (max-width: 980px) {
+    
+    .slid__text__is {
+        margin-bottom: 35px;
+    }
+    
+    .slick-list.draggable {
+        padding: 0 180px;
+    }
+    
+    .slid__text__bl {
+        width: 39%;
+    }
+    
+    .slid__img {
+        width: 69%;
+        position: absolute;
+        right: 0;
+        bottom: 5px;
+    }
+    
+    .slid__is.slick-slide.slick-current.slick-active {
+        opacity: inherit;
+    }
+    
+    .left__focus {
+        width: 46%;
+    }
+    
+    .right__focus {
+        width: 45%;
+    }
+    
+    .slick-list.draggable {
+        margin: 0 0 0 -180px;
+    }
+    
+    .about_j_border {
+        padding: 92px 20px 92px 585px;
+        position: relative;
+        border-radius: 32px;
+        background: #F1F1F8 url(../images/about_j_border.png) -33% 100% no-repeat;
+    }
+    
+    .spa_management_s_text {
+        width: 56%;
+    }
+    
+    .spa_management_l_img_mr {
+        margin: 0 -65px 0 -79px;
+    }
+    
+    .nail_salon_f_restagle {
+        position: absolute;
+        width: 94px;
+        left: 7px;
+        top: 151px;
+    }
+    
+    .about_o_block_mr3 {
+        margin: -130px 0 0 0;
+    }
+    
+      
+    }
+    
+    @media screen and (max-width: 970px) {
+    
+    .slid__img {
+        width: 50%;
+        position: absolute;
+        right: 0;
+        bottom: 5px;
+    }
+    
+        .about_j_border {
+            padding: 92px 20px 92px 565px;
+            position: relative;
+            border-radius: 32px;
+            background: #F1F1F8 url(../images/about_j_border.png) -33% 100% no-repeat;
+        }
+    
+        .spa_management_s_text {
+            width: 55%;
+        }
+    }
+    
+    @media screen and (max-width: 900px) {
+        .about_w_block {
+            width: 50%;
+        }
+    
+        .about_o_block_mr2 {
+            margin: -235px 0 0 0;
+        }
+    
+        .about_j_border {
+            padding: 92px 20px 92px 500px;
+            position: relative;
+            border-radius: 32px;
+            background: #F1F1F8 url(../images/about_j_border.png) -50% 100% no-repeat;
+        }
+    
+        .solutions_block {
+            width: 50%;
+        }
+    
+        .solutions_img {
+            min-height: auto;
+        }
+    
+        .solutions_img img {
+            height: auto;
+        }
+    }
+    
+    
+    /* Ipad*/ 
+    @media screen and (max-width: 768px) {
+    
+    ul.top__menu.is {
+        margin: 10px 0 0;
+    }
+    
+    button.but__top.is {
+        display: block;
+        margin: 10px 0 10px;
+    }
+    
+    button.but__top {
+        display: none;
+    }
+    
+    .select__sign {
+        display: none;
+    }
+    
+    .asc__tit {
+        font-size: 28px;
+    }
+    
+    .asc__text {
+        font-size: 14px;
+        margin-bottom: 24px;
+    }
+    
+    section.slid__bot__bl {
+        margin-bottom: 60px;
+    }
+    
+    .slick-list.draggable {
+        padding: 0 30px!important;
+    }
+    
+    .slids__bot__wrap.slids.slick-initialized.slick-slider.slick-dotted .slick-list.draggable {
+        margin: 0 0 0 -30px;
+    }
+    
+    .slid__bot__text__bl {
+        width: 80%;
+    }
+    
+    .left__focus {
+        width: 100%;
+        order: 2;
+        margin-right: 0;
+    }
+    
+    .right__focus {
+        width: 100%;
+    }
+    
+    .manage__bl.mb {
+        order: 2;
+        margin-top: 16px;
+        display:block;
+    }
+    
+    .manage__bl {
+        display: none;
+    }   
+    
+    
+    .left__focus__tit {
+        font-size: 32px;
+    }
+    
+    .left__focus__text {
+        font-size: 14px;
+    }
+    
+    button.left__but {
+        font-size: 16px;
+        line-height: 16px;
+        margin-bottom: 40px;
+    }
+    
+    .manage__tits {
+        font-size: 12px;
+    }
+    
+    .manage__text {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    
+    .incr__is {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    
+    .incr__text__tit {
+        font-size: 16px;
+    }
+    
+    section.incr__bl {
+        margin-bottom: 60px;
+    }
+    
+    .slid__tits {
+        font-size: 28px;
+    }
+    
+    .slick-list.draggable {
+        padding: 0 20px;
+    }
+    
+    .slick-list.draggable {
+        margin: 0 0 0 -20px;
+    }
+    
+    .slid__text__bl {
+        width: 100%;
+    }
+    
+    .slid__img {
+        position: relative;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    
+    .slid__is {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .yesweb__is.is .yesweb__h {
+        width: 31%;
+        left: 45%;
+    }
+    
+    .yesweb__is {
+        width: 45%;
+        min-height: auto;
+    }
+    
+    .acs__tit {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    
+    .acs__left {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    
+    .acs__right {
+        width: 100%;
+    }
+    
+    .acs__wrap {
+        padding: 15px;
+    }
+    
+    .acs__right.is {
+        margin-right: 0;
+        width: 100%;
+        padding: 0;
+        margin-bottom: 30px;
+    }
+    
+    .acs__left.is {
+        margin-bottom: 0;
+        margin-top: 0;
+        order: 1;
+    }
+    
+    .acs__right.is {
+        order: 2;
+    }
+    
+    .acs__left.is2 {
+        margin-bottom: 0;
+    }
+    
+    .acs__left.is.is3 {
+        margin-bottom: 0;
+    }
+    
+    .invest__left {
+        width: 100%;
+        margin-bottom: 35px;
+    }
+    
+    .invest__right {
+        width: 100%;
+        padding: 20px;
+    }
+    
+    .yesw__img {
+        width: 100%;
+        margin-right: 0;
+        text-align: center;
+        order: 2;
+    }
+    
+    .yews__text__bl {
+        width: 100%;
+        order: 1;
+        margin-bottom: 30px;
+    }
+    
+    .colect__is {
+        width: 100%;
+        margin-bottom: 16px;
+        margin-right: 0;
+    }
+    
+    .online__tit {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    
+    .online__text {
+        font-size: 14px;
+    }
+    
+    .about_w {
+        padding: 40px 0 0 0;
+    }
+    
+    .about_w_wrap {
+        flex-wrap: wrap;
+    }
+    
+    .about_w_block {
+        width: 100%;
+    }
+    
+    .about_w_block2 {
+        width: 100%;
+        padding: 32px 0 0 0;
+    }
+    
+    .about_o_block {
+        width: 100%;
+    }
+    
+    .about_o_block_mr {
+        margin: 32px 0 0 0;
+    }
+    
+    .about_o_block_mr2 {
+        margin: 32px 0 0 0;
+    }
+    
+    .about_o_border {
+        height: 100%;
+        border-radius: 34px;
+        padding: 42px 24px 42px 24px;
+    }
+    
+    .about_o_pd {
+        padding: 55px 0 0 0;
+    }
+    
+    .about_o_border_bg {
+        height: auto;
+        padding: 42px 24px 226px 24px;
+        background-position: 0% 460%;
+    }
+    
+    .about_o_border_bg2 {
+        position: relative;
+        background: url(../images/about_o_border_bg3.png) center center;
+        background-size: cover;
+        height: 247px;
+    }
+    
+    .about_v_wrap {
+        display: flex;
+        flex-wrap: wrap;
+        margin: -8px 0px 0 0px;
+    }
+    
+    .about_v_block {
+        width: 100%;
+        padding: 32px 0 0 0;
+    }
+    
+    .about_v {
+        padding: 60px 0 0 0;
+    }
+    
+    .about_t {
+        padding: 60px 0 0 0;
+    }
+    
+    .about_j_border {
+        padding: 42px 24px 425px 24px;
+        background: #F1F1F8 url(../images/about_j_border.png) 0% 100% no-repeat;
+    }
+    
+    .about_j {
+        padding: 60px 0 60px 0;
+    }
+    
+    .about_s {
+        padding: 0 0 60px 0;
+    }
+    
+    .about_s_wrap {
+        margin: 8px 0 0 0;
+        flex-wrap: wrap;
+    }
+    
+    .about_s_block {
+        width: 100%;
+        padding: 32px 0 0 0;
+    }
+    
+    .about_s_padding {
+        padding: 0;
+    }
+    
+    .career_w {
+        padding: 40px 0 0 0;
+    }
+    
+    .career_w_wrap {
+        flex-wrap: wrap;
+    }
+    
+    .career_w_block {
+        width: 100%;
+        padding: 0;
+    }
+    
+    .career_w_width {
+        max-width: 100%;
+    }
+    
+    .career_w_img_mb {
+        margin: 0 auto;
+        display: block;
+    }
+    
+    .career_w_img_lg {
+        display: none;
+    }
+    
+    .career_w_img {
+        margin: 0 -5px 0 0;
+        text-align: center;
+    }
+    
+    .career_w_block2 {
+        padding: 40px 0 0 0;
+        width: 100%;
+    }
+    
+    .career_w_end {
+        margin: 18px 0 0 0;
+    }
+    
+    .career_w_link a {
+        width: 100%;
+    }
+    
+    .career_w_link {
+        width: 100%;
+    }
+    
+    .career_o_wrap {
+        flex-wrap: wrap;
+    }
+    
+    .career_o_block {
+        width: 100%;
+        padding: 0;
+    }
+    
+    .career_o_block2 {
+        width: 100%;
+        padding: 24px 0 0 0;
+        margin: 0;
+    }
+    
+    .career_o_border {
+        background: #F1F1F8 url(../images/career_o_border.png) 100% -40% no-repeat;
+        border-radius: 34px;
+        padding: 84px 24px 32px 24px;
+    }
+    
+    .career_o_title {
+        font-family: 'manrope_bold';
+        font-size: 16px;
+        line-height: 20px;
+        color: #2C293D;
+    }
+    
+    .career_o_border2 {
+        border-radius: 32px;
+        background: #EFEFF5;
+        padding: 68px 30px 68px 30px;
+    }
+    
+    .career_a_wrap {
+        padding: 0;
+    }
+    
+    .career_a_block {
+        width: 100%;
+        padding: 32px 0 0 0;
+    }
+    
+    .career_a {
+        padding: 60px 0 0 0;
+    }
+    
+    .career_p_link_title {
+        color: #2C293D;
+        font-family: 'manrope_bold';
+        font-size: 16px;
+        line-height: 20px;
+    }
+    
+    .career_p_link_text {
+        width: 67%;
+        padding: 0 0 0 40px;
+    }
+    
+    .career_p_link {
+        padding: 0 0 40px 0;
+    }
+    
+    .career_p_link_arrow {
+        display: none;
+    }
+    
+    .career_p_link_left {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    
+    .career_p_link_img {
+        width: 100%;
+    }
+    
+    .career_p_link_text {
+        width: 100%;
+        padding: 24px 24px 0 24px;
+    }
+    
+    .career_p_link_top {
+        flex-wrap: wrap;
+    }
+    
+    .career_p_link_title {
+        width: 100%;
+    }
+    
+    .career_p_link_border_text {
+        margin: 8px 0 0 0;
+    }
+    
+    .career_p_link_pd {
+        padding: 12px 0;
+    }
+    
+    .career_p_link_width {
+        max-width: 100%;
+    }
+    
+    .career_p {
+        padding: 60px 0 0 0;
+    }
+    
+    .forma_wrap {
+        flex-wrap: wrap;
+    }
+    
+    .forma_border {
+        padding: 40px 24px 32px 24px;
+    }
+    
+    .forma_block {
+        width: 100%;
+    }
+    
+    .forma_block2 {
+        width: 100%;
+        padding: 30px 0 0 0;
+    }
+    
+    .forma {
+        padding: 60px 0;
+    }
+    
+    .forma_form_pd {
+        padding: 16px 0 0 0;
+    }
+    
+    .career_page_w_border {
+        border-radius: 34px;
+        background: #fff;
+        padding: 40px 24px;
+    }
+    
+    .career_page_w_block {
+        width: 65%;
+    }
+    
+    .career_page_w_block2 {
+        width: 35%;
+        padding: 0 0 0 20px;
+        margin: 20px 0 0 0;
+    }
+    
+    .career_page_w {
+        padding: 35px 0 0 0;
+    }
+    
+    .career_page_t {
+        padding: 60px 0 0 0;
+    }
+    
+    .contact_title {
+        padding: 5px 0 0 0;
+        color: #313142;
+        font-family: 'manrope_bold';
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 20px;
+    }
+    
+    .contact_title a {
+        color: #313142;
+        font-family: 'manrope_bold';
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 20px;
+    }
+    
+    .contact_block {
+        padding: 40px 0 0 0;
+        width: 50%;
+        margin: 0;
+    }
+    
+    .accordion .link {
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-family: 'manrope_bold';
+        font-size: 16px;
+        line-height: 20px;
+        color: #313142;
+        position: relative;
+        -webkit-transition: all 0.4s ease;
+        -o-transition: all 0.4s ease;
+        transition: all 0.4s ease;
+        padding: 15px 15px 15px 24px;
+    }
+    
+    .accordion .link p {
+        width: 93%;
+        padding: 0 6px 0 0;
+    }
+    
+    .accordion li {
+        margin: 16px 0 0 0;
+        
+        border-radius: 24px;
+        background: #fff;
+        cursor: pointer;
+    }
+    
+    .fag_accordion_content {
+        display: none;
+        padding: 15px 35px 35px 27px;
+    }
+    
+    .error_border {
+        padding: 149px 20px 214px 20px;
+        position: relative;
+        max-width: 850px;
+        margin: 0 auto;
+        border-radius: 32px;
+    }
+    
+    .error {
+        padding: 60px 0 60px 0;
+    }
+    
+    .error_border {
+        background-size: 240px;
+    }
+    
+    .error_border:before {
+        background-size: 240px;
+    }
+    
+    .blog_page_sl .draggable {
+        padding: 0 !important;
+    }
+    
+    .blog_page_sl .slick-next {
+        display: none !important;
+    }
+    
+    .blog_page_sl .slick-prev {
+        display: none !important;
+    }
+    
+    .career_page_t_padding {
+        padding: 32px 0 0 0;
+    }
+    
+    .blog_page_pd {
+        padding: 20px 0 0 0;
+    }
+    
+    .career_page_w_wrap {
+        padding: 32px 0 60px 0;
+    }
+    
+    .career_page_w_border {
+        border-radius: 34px;
+        background: #fff;
+        padding: 117px 40px;
+    }
+    
+    .blog_page_border {
+        flex-wrap: wrap;
+        padding: 32px 20px 40px 20px;
+        margin: 0 0 30px 0;
+    }
+    
+    .blog_page_border_text {
+        width: 100%;
+        padding: 15px 0 0 0;
+    }
+    
+    .blog_page_wrap {
+        flex-wrap: wrap;
+        padding: 24px 0 0 0;
+    }
+    
+    .blog_page_block {
+        width: 100%;
+        margin: 0 0 10px 0;
+    }
+    
+    .blog_page_slayder {
+        padding: 40px 0 40px 0;
+    }
+    
+    .about_s_padding2 {
+        padding: 60px 0;
+    }
+    
+    .career_page_t h1 {
+        color: #313142;
+        font-family: 'manrope_bold';
+        font-size: 32px;
+        line-height: 32px;
+    }
+    
+    .blog_page_title {
+        color: #313142;
+        font-family: 'manrope_bold';
+        font-size: 16px;
+        line-height: 20px;
+    }
+    
+    .book_demo_block2 {
+        display: none;
+    }
+    
+    .book_demo_block {
+        width: 100%;
+    }
+    
+    .book_demo {
+        padding: 40px 0 60px 0;
+    }
+    
+    .book_demo_border {
+        background: #fff;
+        border-radius: 24px;
+        padding: 32px 20px;
+    }
+    
+    .spa_management_w_block {
+        width: 50%;
+    }
+    
+    .spa_management_w_block2 {
+        width: 50%;
+    }
+    
+    .spa_management_d_h {
+        position: relative;
+        margin: 30px 0 0 0;
+        border-radius: 32px;
+        background: #fff url(../images/spa_management_d_h.png) 0 0 no-repeat;
+        padding: 65px 20px 30px 20px;
+    }
+    
+    .spa_management_d_h:before {
+        border-radius: 32px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        content: '';
+        background: url(../images/spa_management_d_h_bf2.png) 100% 0 no-repeat;
+    }
+    
+    .spa_management_d_h p {
+        text-align: center;
+        color: #544F71;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 22px;
+    }
+    
+    .spa_management_d_h_pd {
+        padding: 15px 0 0 0;
+    }
+    
+    .spa_management_d_wrap {
+        flex-wrap: wrap;
+    }
+    
+    .spa_management_d_block {
+        width: 100%;
+        margin: 0 0 20px 0;
+    }
+    
+    .spa_management_d_border2 {
+        height: 100%;
+        border-radius: 24px;
+        background: #EFEFF5;
+        padding: 70px 24px;
+        display: flex;
+        align-items: center;
+    }
+    
+    .spa_management_s_border {
+        border-radius: 24px;
+        margin: 20px 0 0 0;
+        flex-wrap: wrap;
+    }
+    
+    .spa_management_s_block {
+        width: 100%;
+        border-radius: 24px;
+    }
+    
+    .spa_management_s_img {
+        margin: 0;
+    }
+    
+    .spa_management_s_img img {
+        width: 100%;
+    }
+    
+    .spa_management_s_text {
+        width: 100%;
+        padding: 25px 20px 32px 20px;
+    }
+    
+    .spa_management_s_order2 {
+        order: 2;
+    }
+    
+    .spa_management_s_order1 {
+        order: 1;
+    }
+    
+    .spa_management_s_ul {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 8px 0 0 0;
+    }
+    
+    .spa_management_s_absolute {
+        z-index: 1;
+        position: absolute;
+        width: 335px;
+        top: -10px;
+        right: -10px;
+    }
+    
+    .spa_management_o {
+        padding: 60px 0 0 0;
+    }
+    
+    .spa_management_o_wrap {
+        padding: 60px 0 0 0;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .spa_management_o_block {
+        width: 100%;
+    }
+    
+    .spa_management_o_block2 {
+        width: 100%;
+        padding: 25px 0 0 0;
+    }
+    
+    .career_o_inner_block_spa {
+        width: 100%;
+        padding: 0 0 24px 0;
+    }
+    
+    .spa_management_o_border {
+        background: #EFEFF5 url(../images/spa_management_o_border.png) 100% 0 no-repeat;
+        border-radius: 24px;
+        padding: 203px 20px 16px 20px;
+    }
+    
+    .spa_management_o_border2 {
+        padding: 26px 24px 40px 24px;
+        border-radius: 24px;
+        background: linear-gradient(134deg, #FFE870 -12.53%, #FF80C5 14.43%, #6442FF 61.32%, #58ABF1 100%);
+    }
+    
+    .spa_management_o_title {
+        padding: 30px 0 0 0;
+        font-family: 'manrope_semibold';
+        font-size: 16px;
+        line-height: 20px;
+        color: #fff;
+    }
+    
+    .spa_management_o_title a {
+        font-family: 'manrope_semibold';
+        font-size: 16px;
+        line-height: 20px;
+        color: #fff;
+        text-decoration-line: underline;
+    }
+    
+    .spa_management_i_border {
+        flex-wrap: wrap;
+        padding: 16px 20px 40px 20px;
+    }
+    
+    .spa_management_i_number {
+        display: none;
+    }
+    
+    .spa_management_i_text {
+        width: 100%;
+        order: 2;
+    }
+    
+    .spa_management_i_block {
+        width: 100%;
+        order: 1;
+        padding: 0;
+        text-align: center;
+    }
+    
+    .spa_management_i_title {
+        padding: 15px 0 0 0;
+        font-family: 'manrope_semibold';
+        font-size: 16px;
+        line-height: 20px;
+        color: #2C293D;
+    }
+    
+    .spa_management_i_restagle {
+        width: 46px;
+        height: 4px;
+        margin: 10px 0 10px 0;
+        background: linear-gradient(134deg, #FFE870 -12.53%, #FF80C5 14.43%, #6442FF 61.32%, #58ABF1 100%);
+    }
+    
+    .spa_management_i_link {
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 20px;
+        color: #5D5FEF;
+        text-decoration-line: underline;
+    }
+    
+    .spa_management_i {
+        padding: 40px 0 60px 0;
+    }
+    
+    .spa_management_a_wrap {
+        flex-wrap: wrap;
+        padding: 30px 0 0 0;
+    }
+    
+    .spa_management_a_block {
+        width: 100%;
+        margin: 0 0 30px 0;
+    }
+    
+    .spa_management_a_inner {
+        flex-wrap: wrap;
+    }
+    
+    .spa_management_a_text {
+        width: 100%;
+        padding: 20px 0 0 0;
+    }
+    
+    .spa_management_v {
+        padding: 60px 0 0 0;
+    }
+    
+    .spa_management_c_border {
+        padding: 202px 20px 10px 20px;
+    }
+    
+    .spa_management_c_block {
+        width: 100%;
+        padding: 0 0 30px 0;
+    }
+    
+    .spa_management_c_title {
+        font-family: 'manrope_semibold';
+        font-size: 16px;
+        line-height: 20px;
+        color: #2C293D;
+        padding: 20px 0 0 0;
+    }
+    
+    .career_o_inner_title_pd {
+        padding: 10px 0 0 0;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    
+    .spa_management_c {
+        padding: 60px 0 0 0;
+    }
+    
+    .spa_management_l {
+        padding: 60px 0;
+    }
+    
+    .spa_management_l_wrap {
+        flex-wrap: wrap;
+    }
+    
+    .spa_management_l_block {
+        width: 100%;
+        padding: 0;
+    }
+    
+    .spa_management_l_block2 {
+        text-align: center;
+        width: 100%;
+        padding: 20px 0 0 0;
+    }
+    
+    .spa_management_l_border {
+        padding: 40px 20px 40px 20px;
+        border-radius: 32px;
+        background: #fff;
+    }
+    
+    .spa_management_l_border2 {
+        border-radius: 24px;
+        background: #fff;
+        padding: 40px 20px 40px 20px;
+        margin: 20px 0 0 0;
+    }
+    
+    .spa_management_l_border2 p {
+        font-family: 'manrope_semibold';
+        font-size: 16px;
+        line-height: 20px;
+        color: #2C293D;
+    }
+    
+    .spa_management_l_img_mr {
+        margin: 0;
+    }
+    
+    .spa_management_l_img {
+        border-radius: 24px;
+    }
+    
+    .nail_salon_f_wrap {
+        flex-wrap: wrap;
+    }
+    
+    .nail_salon_f_block {
+        padding: 30px 0 0 0;
+        width: 100%;
+        order: 2;
+    }
+    
+    .nail_salon_f_block2 {
+        width: 100%;
+        padding: 0;
+    }
+    
+    .nail_salon_f_img {
+        display: none;
+    }
+    
+    .nail_salon_f_restagle {
+        display: none;
+    }
+    
+    .nail_salon_f_border {
+        margin: -40px 0 0 0;
+        padding: 84px 24px 65px 24px;
+        border-radius: 32px;
+        background: linear-gradient(134deg, #FFE870 -12.53%, #FF80C5 14.43%, #6442FF 61.32%, #58ABF1 100%);
+    }
+    
+    .nail_salon_f {
+        padding: 60px 0 0 0;
+    }
+    
+    .spa_management_i_number_block {
+        display: flex;
+    }
+    
+    .beauty_salon_i_border {
+        flex-wrap: wrap;
+        padding: 16px 20px 40px 20px;
+    }
+    
+    .beauty_salon_i_text {
+        width: 100%;
+        padding: 20px 0 0 0;
+        order: 2;
+    }
+    
+    .beauty_salon_i_block {
+        width: 100%;
+        text-align: center;
+        order: 1;
+    }
+    
+    .hair_salon_padding_border_bg2 {
+        height: 249px;
+    }
+    
+    .hair_salon_s {
+        padding: 24px 0 0 0;
+    }
+    
+    .hair_salon_s_border {
+        margin: 0 0 72px 0;
+        background: #fff;
+        border-radius: 32px;
+        padding: 32px 24px 32px 24px;
+        position: relative;
+    }
+    
+    .hair_salon_s_border:before {
+        position: absolute;
+        background: url(../images/hair_salon_s_border_bf.svg) 0 0 no-repeat;
+        content: '';
+        width: 1px;
+        height: 44px;
+        left: 45px;
+        bottom: -60px;
+    }
+    
+    .hair_salon_sec_bg {
+        padding: 42px 40px;
+        background: #E4E4EF;
+    }
+    
+    .hair_salon_sec_bg p {
+        font-family: 'manrope_semibold';
+        font-size: 16px;
+        line-height: 20px;
+        color: #2C293D;
+        text-align: center;
+        max-width: 598px;
+        margin: 0 auto;
+    }
+    
+    .spa_management_w_wrap {
+        flex-wrap: wrap;
+    }
+    
+    .spa_management_w_block {
+        width: 100%;
+    }
+    
+    .spa_management_w {
+        padding: 40px 0 0 0;
+    }
+    
+    .spa_management_w_block2 {
+        width: auto;
+        padding: 30px 0 0 0;
+    }
+    
+    .spa_management_w_inner {
+        margin: 0 0 0 0;
+        padding: 0 0 0 0;
+        justify-content: flex-end;
+        display: flex;
+    }
+    
+    
+    }
+    
+    
+    /* Ipad mini*/ 
+    @media screen and (max-width: 640px) {
+    
+    section.slid__bl {
+        margin-bottom: 60px;
+    }
+    
+    button.yesweb__but {
+        font-size: 12px;
+    }
+    
+    button.yesweb__but span {
+        width: 20px;
+        height: 20px;
+        background-size: contain;
+    }
+    
+    
+    .logo__foot__bl {
+        width: 100%;
+        margin-bottom: 36px;
+    }
+    
+    .foot__but__bl {
+        width: 100%;
+    }
+    
+    ul.foot__menu__is {
+        width: 100%;
+        margin-bottom: 57px;
+    }
+    
+    .left__foot__menu {
+        flex-wrap: wrap;
+    }
+    
+    .left__foot__menu nav {
+        width: 100%;
+    }
+    
+    .right__foot__menu nav {
+        width: 100%;
+    }
+    
+    .right__foot__menu {
+        flex-wrap: wrap;
+    }
+    
+    section.acs__bl.is {
+        margin-top: 0;
+    }
+    
+    .title {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    
+    .pricing_justy {
+        height: 100%;
+        padding: 24px 20px 24px 20px;
+        flex-wrap: wrap;
+        display: flex;
+        align-content: space-between;
+        position: relative;
+        z-index: 1;
+    }
+    
+    .pricing_title {
+        font-family: 'manrope_bold';
+        font-size: 16px;
+        line-height: 20px;
+        color: #313142;
+        padding: 0 0 8px 0;
+        margin: 0 -15px 0 0;
+    }
+    
+    .pricing_price {
+        padding: 8px 0 0 0;
+        font-size: 28px;
+        line-height: 28px;
+        color: #313142;
+    }
+    
+    .pricing_button button {
+        background: #EFEFF5;
+        border-radius: 12px;
+        padding: 4px 6px 4px 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+    }
+    
+    .pricing_button p {
+        font-family: 'manrope_bold';
+        font-size: 16px;
+        line-height: 22px;
+        color: #2C293D;
+    }
+    
+    .pricing_button span {
+        width: 34px;
+        height: 34px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 12px;
+        background: #FFF;
+        box-shadow: -3.63462px 16.96154px 16.96154px 0px rgba(0, 0, 0, 0.05);
+    }
+    
+    .pricing {
+        padding: 17px 0 60px 0;
+    }
+    
+    header {
+        padding: 14px 0 0 0;
+    }
+    
+    .about_w_title {
+        color: #7348F9;
+        font-family: 'manrope_medium';
+        font-size: 14px;
+        line-height: 20px;
+        padding: 0 0 16px 0;
+    }
+    
+    .title2 {
+        font-size: 28px;
+        line-height: 28px;
+    }
+    
+    .about_o_title2 {
+        font-family: 'manrope_bold';
+        font-size: 18px;
+        line-height: 22px;
+        color: #2C293D;
+    }
+    
+    .about_o_absolute2 {
+        position: absolute;
+        bottom: -7px;
+        right: -5px;
+        z-index: 1;
+        border-radius: 21.474px;
+        border: 1.789px solid rgba(0, 0, 0, 0.10);
+        background: #FFF;
+        box-shadow: -5.36842px 25.05263px 25.05263px 0px rgba(0, 0, 0, 0.05);
+        width: 68px;
+        height: 68px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .about_v_title {
+        font-family: 'manrope_bold';
+        font-size: 16px;
+        line-height: 20px;
+        color: #2C293D;
+    }
+    
+    .about_v_suptitle {
+        padding: 16px 0 0 0;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 20px;
+        color: #544F71;
+    }
+    
+    .about_v {
+        padding: 60px 0 0 0;
+    }
+    
+    .about_t_name {
+        color: #2C293D;
+        font-family: 'manrope_bold';
+        font-size: 16px;
+        line-height: 20px;
+    }
+    
+    .about_j_link a {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        padding: 4px 6px 4px 28px;
+        border-radius: 12px;
+        background: #CC2696;
+    }
+    
+    .about_j_link a p {
+        color: #FFF;
+        font-family: 'manrope_bold';
+        font-size: 16px;
+        line-height: 22px;
+    }
+    
+    .about_j_link a span {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 34px;
+        height: 34px;
+        border-radius: 12px;
+        background: #FFF;
+        box-shadow: -3.63462px 16.96154px 16.96154px 0px rgba(0, 0, 0, 0.05);
+    }
+    
+    .about_s_title {
+        padding: 4px 0 0 0;
+        color: #2C293D;
+        font-family: 'manrope_bold';
+        font-size: 16px;
+        line-height: 20px;
+    }
+    
+    .career_page_t h2 {
+        font-family: 'manrope_bold';
+        font-size: 28px;
+        line-height: 28px;
+        color: #2C293D;
+    }
+    
+    .solutions_block {
+        padding: 12px 6px 0 6px;
+    }
+    
+    .solutions_wrap {
+        margin: 12px -6px 0 -6px;
+    }
+    
+    .features_block {
+        width: 100%;
+    }
+    
+    .features_justy {
+        display: flex;
+        flex-wrap: wrap;
+        align-content: space-between;
+        height: 100%;
+        padding: 20px 20px 24px 20px;
+    }
+    
+    .features_title {
+        padding: 20px 0 0 0;
+        font-family: 'manrope_bold';
+        font-size: 16px;
+        line-height: 20px;
+        color: #2C293D;
+    }
+    
+    .features_bottom {
+        padding: 40px 0 0 0;
+    }
+    
+    .features_link a {
+        width: 100%;
+    }
+    
+    .features_link p {
+        color: #000;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 22px;
+    }
+    
+    .accordion .link p {
+        width: 90%;
+        padding: 0 6px 0 0;
+    }
+    
+    .about_j_link_error {
+        width: 100%;
+    }
+    
+    .book_demo_form_buttoon button {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        padding: 4px 6px 4px 23px;
+        border-radius: 12px;
+        background: #CC2696;
+    }
+    
+    .book_demo_form_buttoon button p {
+        color: #FFF;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    
+    .book_demo_form_buttoon button span {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 34px;
+        height: 34px;
+        border-radius: 12px;
+        background: #FFF;
+        box-shadow: -3.63462px 16.96154px 16.96154px 0px rgba(0, 0, 0, 0.05);
+    }
+    
+    .book_demo_pd {
+        padding: 16px 0 0 0;
+    }
+    
+    .book_demo_form {
+        padding: 18px 0 0 0;
+    }
+    
+    .book_demo_form_pd2 {
+        padding: 16px 0;
+    }
+    
+    .solutions_absolute_top span {
+        width: 20px;
+        height: 20px;
+        border-radius: 5px;
+        background: #EFEFF5;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .solutions_absolute_top span svg {
+        width: 14px;
+        height: 15px;
+    }
+    
+    .solutions_absolute_top p {
+        width: 90%;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 22px;
+        color: #2C293D;
+    }
+    
+    .solutions_absolute_border {
+        border-radius: 12px;
+        background: #fff;
+        padding: 8px 8px 8px 10px;
+    }
+    
+    .solutions_absolute_title {
+        padding: 10px 0px 12px 0;
+        display: none;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 16px;
+        color: #544F71;
+    }
+    
+    .spa_management_w_wrap {
+        flex-wrap: wrap;
+    }
+    
+    .spa_management_w_block {
+        width: 100%;
+    }
+    
+    .spa_management_w {
+        padding: 40px 0 0 0;
+    }
+    
+    .spa_management_w_block2 {
+        width: auto;
+        padding: 30px 0 0 0;
+    }
+    
+    .spa_management_d_ellipce_title {
+        color: #313142;
+        text-align: center;
+        font-family: 'manrope_semibold';
+        font-size: 16px;
+        line-height: 20px;
+    }
+    
+    .spa_management_d_title {
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 22px;
+        color: #544F71;
+    }
+    
+    .nail_salon_f_title {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    
+    .nail_salon_c_border {
+        flex-wrap: wrap;
+    }
+    
+    .nail_salon_c_text {
+        width: 100%;
+        padding: 30px 20px 40px 20px;
+        order: 2;
+    }
+    
+    .nail_salon_c_block {
+        width: 100%;
+        order: 1;
+    }
+    
+    .nail_salon_c_img_mr {
+        width: 100%;
+    }
+    
+    .nail_salon_c_img {
+        width: inherit;
+        position: relative;
+    }
+    
+    .nail_salon_c_absolute {
+        right: 0;
+        left: auto;
+        top: auto;
+        bottom: -50px;
+    }
+    
+    .nail_salon_c_absolute2 {
+        left: auto;
+        right: 0;
+        bottom: -45px;
+    }
+    
+    .nail_salon_c_absolute3 {
+        left: 0;
+        bottom: -45px;
+    }
+    
+    
+    
+    
+    }
+    
+    @media screen and (max-width: 575px) {
+    
+    
+    .slid__is {
+        position: relative;
+        display: flex!important;
+        overflow: hidden;
+        border-radius: 32px;
+        background: #E8E8F1;
+        padding: 90px 20px 0 20px;
+    }
+    
+    
+        .pricing_wrap {
+            margin: 20px 0 0 0;
+        }
+    
+        .pricing_block {
+            width: 100%;
+            padding: 10px 0 0 0;
+        }
+    
+        .pricing_border_bg:before {
+            display: none;
+        }
+    
+        .career_page_w_wrap {
+            flex-wrap: wrap;
+        }
+    
+        .career_page_w_block {
+            width: 100%;
+        }
+    
+        .career_page_w_block2 {
+            width: 100%;
+            padding: 0;
+            text-align: center;
+        }
+    
+        .contact_block {
+            width: 100%;
+        }
+    
+        .blog_wrap {
+            margin: 0;
+        }
+    
+        .blog_block {
+            width: 100%;
+            padding: 20px 0 0 0;
+        }
+    
+        .blog_pagination {
+            padding: 20px 0 0 0;
+        }
+    
+        .blog_pagination_li_mb {
+            display: none;
+        }
+    
+        .spa_management_s_absolute {
+            z-index: 1;
+            position: absolute;
+            width: 315px;
+            top: -10px;
+            right: -10px;
+        }
+    
+        .spa_management_s_absolute2 {
+            z-index: 1;
+            position: absolute;
+            width: 300px;
+            top: 34px;
+            right: -10px;
+        }
+    
+    
+    }
+    
+    @media screen and (max-width: 515px) {
+        .spa_management_s_absolute {
+            z-index: 1;
+            position: absolute;
+            width: 265px;
+            top: -10px;
+            right: -10px;
+        }
+    }
+    
+    
+    
+    /* Galaxy S8+*/ 
+    @media screen and (max-width: 480px) {
+    
+    section.invest__bl {
+        margin-bottom: 60px;
+    }
+    
+    button.online__but span {
+        height: 34px;
+        width: 34px;
+    }
+    
+    button.online__but span svg {
+        height: 24px;
+        width: 24px;
+    }
+    
+    section.yesweb__bl {
+        margin-bottom: 60px;
+    }
+    
+    .asc__wrap {
+        background: url(../images/mask-2-m-s.png)left top no-repeat;
+        padding: 235px 20px 30px;
+        margin: 0 auto;
+        width: 100%;
+        height: 657px;
+        background-size: cover;
+    }
+    
+    .online__wrap {
+        background: url(../images/mask-1-m-s.png)left top no-repeat;
+        width: 76%;
+        height: auto;
+        background-size: contain;
+        min-height: 421px;
+        padding: 45px 20px;
+        margin: 0 auto;
+    }
+    
+    button.online__but {
+        width: 100%;
+        margin-bottom: 30px;
+        font-size: 16px;
+        padding: 11px;
+    }
+    
+    .online__yocale__wrap {
+        display: none;
+    }
+    
+    span.yesweb__mob img {
+        height: 70px;
+        width: 100%;
+    }
+    
+    .yesweb__is.is .yesweb__h {
+        width: 51%;
+        left: 20%;
+    }
+    
+    section.invest__bl {
+        margin-top: 0;
+    }
+    
+    section.acs__bl {
+        margin-bottom: 35px;
+    }
+    
+    .logo__bl {
+        width: 92px;
+        margin-right: 0;
+    }
+    
+    button.free__but {
+        font-size: 14px;
+    }
+    
+    .top__wrap {
+        padding: 9px 9px;
+        border-radius: 12px;
+    }
+    
+    .pricing_nav {
+        display: none;
+    }
+    
+    .pricing_select {
+        display: block;
+        padding: 32px 0 0 0;
+    }
+    
+    .about_o_border_bg {
+        height: auto;
+        padding: 42px 24px 226px 24px;
+        background-position: 0% 364%;
+    }
+    
+    .about_t_wrap {
+        margin: 0;
+    }
+    
+    .about_t_block {
+        width: 100%;
+        padding: 32px 0 0 0;
+    }
+    
+    .about_j_border {
+        padding: 42px 24px 425px 24px;
+        background: #F1F1F8 url(../images/about_j_border.png) 25% 100% no-repeat;
+    }
+    
+    
+    
+    .yesweb__h_solutions {
+        width: 92%;
+    }
+    
+    .blog_page_video {
+        height: 162px;
+    }
+    
+    .spa_management_w_img {
+        margin: 0 -50px 0 0;
+    }
+    
+    .nail_salon_f_absolute {
+        position: absolute;
+        width: 237px;
+        top: 50px;
+        left: -10px;
+    }
+    
+    .nail_salon_c_absolute2 {
+        width: 290px;
+        left: auto;
+        right: 0;
+        bottom: -45px;
+    }
+    
+    .nail_salon_c_absolute3 {
+        width: 200px;
+        left: 0;
+        bottom: -45px;
+    }
+    
+    .spa_management_s_absolute2 {
+        z-index: 1;
+        position: absolute;
+        width: 250px;
+        top: 34px;
+        right: -10px;
+    }
+    
+    .beauty_salon_none {
+        display: none;
+    }
+    
+    .spa_management_w_inner_img2 {
+        margin: 13px 0 0 0;
+    }
+    
+    .spa_management_w_inner_block2 {
+        margin: 26px 0 0 13px;
+    }
+    
+    .spa_management_w_absolute {
+        display: flex;
+        align-items: center;
+        width: 100px;
+        height: 30px;
+        padding: 0 0 0 9px;
+        border-radius: 6px;
+        border: 0.5px solid rgba(0, 0, 0, 0.10);
+        background: #FFF;
+        box-shadow: -3px 14px 14px 0px rgba(0, 0, 0, 0.05);
+        position: absolute;
+        top: 11px;
+        left: 99px;
+    }
+    
+    .spa_management_w_mr_title {
+        color: #27252D;
+        font-size: 8px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 12px;
+    }
+    
+    .spa_management_w_mr_title_pd {
+        margin: 0;
+        padding: 0 0 0 7px;
+    }
+    
+    .spa_management_w_icon_width img {
+        width: 11px;
+    }
+    
+    .spa_management_w_absolute2 {
+        text-align: center;
+        width: 83px;
+        padding: 6px 0 7px 0;
+        border-radius: 6px;
+        border: 0.5px solid rgba(0, 0, 0, 0.10);
+        background: #FFF;
+        box-shadow: -3px 14px 14px 0px rgba(0, 0, 0, 0.05);
+        position: absolute;
+        top: 90px;
+        left: 54px;
+    }
+    
+    .spa_management_w_icon_width2 img {
+        width: 17px;
+        height: auto;
+    }
+    
+    .spa_management_w_absolute3 {
+        display: flex;
+        align-items: center;
+        width: 95px;
+        height: 30px;
+        padding: 0 0 0 8px;
+        border-radius: 6px;
+        border: 0.5px solid rgba(0, 0, 0, 0.10);
+        background: #FFF;
+        box-shadow: -3px 14px 14px 0px rgba(0, 0, 0, 0.05);
+        position: absolute;
+        bottom: 18px;
+        left: 157px;
+    }
+    
+    .spa_management_w_icon_width3 img {
+        width: 13px;
+    }
+    
+    .spa_management_w_mr_title_pd3 {
+        margin: 0;
+        padding: 0 0 0 6px;
+    }
+    
+    .spa_management_w_absolute4 {
+        display: flex;
+        align-items: center;
+        width: 95px;
+        height: 30px;
+        padding: 0 0 0 10px;
+        border-radius: 6px;
+        border: 0.5px solid rgba(0, 0, 0, 0.10);
+        background: #FFF;
+        box-shadow: -3px 14px 14px 0px rgba(0, 0, 0, 0.05);
+        position: absolute;
+        bottom: 131px;
+        right: -21px;
+    }
+    
+    .spa_management_w_icon_width4 {
+        width: 13px;
+    }
+    
+    .spa_management_w_mr_title_pd4 {
+        margin: 0;
+        padding: 0 0 0 4px;
+    }
+    
+    .spa_management_w_absolute5 {
+        display: none;
+    }
+    
+    
+      
+    }
+    
+    @media screen and (max-width: 450px) {
+        .spa_management_s_absolute {
+            z-index: 1;
+            position: absolute;
+            width: 230px;
+            top: -10px;
+            right: -10px;
+        }
+    }
+    
+    /* Galaxy*/ 
+    @media screen and (max-width: 415px) {
+    
+    
+    .colect__ico img {
+        width: 93px;
+    }
+    
+    
+      .about_o_border_bg {
+        height: auto;
+        padding: 42px 24px 226px 24px;
+        background-position: 0% 250%;
+        background-size: 396px 385px;
+    }
+    
+    .about_v_text {
+        width: 86%;
+        padding: 0 0 0 25px;
+    }
+    
+    .about_j_border {
+        background-size: 435px 345px;
+        padding: 42px 24px 305px 24px
+    }
+    
+    .solutions_img {
+        min-height: 293px;
+    }
+    
+    .solutions_img img {
+        height: 293px;
+    }
+    
+    .yesweb__h_solutions {
+        width: 88%;
+    }
+    
+    .accordion .link p {
+        width: 85%;
+        padding: 0 6px 0 0;
+    }
+    
+    .fag_accordion_content {
+        display: none;
+        padding: 15px 35px 35px 10px;
+    }
+    
+    .spa_management_s_absolute {
+        z-index: 1;
+        position: absolute;
+        width: 200px;
+        top: -10px;
+        right: -10px;
+    }
+    
+    .spa_management_s_absolute2 {
+        z-index: 1;
+        position: absolute;
+        width: 220px;
+        top: 34px;
+        right: -10px;
+    }
+    
+    .spa_management_w_inner {
+        margin: 0 -70px 0 0;
+        padding: 0 0 0 0;
+        justify-content: flex-end;
+        display: flex;
+    }
+
+    section.asc__bl {
+        margin-bottom: 80px;
+    }
+    }
+    
+    
+    /* Iphone 6.7.8 */ 
+    @media screen and (max-width: 375px) {
+        .about_o_border_bg {
+            height: auto;
+            padding: 42px 24px 226px 24px;
+            background-position: 0% 145%;
+            background-size: 360px 286px;
+        }
+    
+        .features_img {
+            text-align: center;
+            min-height: 210px;
+            max-height: 210px;
+        }
+    }
+    
+    /* Iphone 5.5SE */ 
+    @media screen and (max-width: 320px) {
+    
+    .asc__wrap {
+        background: url(../images/mask-2-m-s.png)left top no-repeat;
+        padding: 95px 20px 30px;
+        margin: 0 auto;
+        width: 93%;
+        height: 494px;
+        background-size: cover;
+    }
+    
+    }
